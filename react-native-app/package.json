@@ -2,6 +2,9 @@
   "name": "pt-finder",
   "version": "1.0.0",
   "main": "index.js",
+  "engines": {
+    "node": "16.15"
+  },
   "scripts": {
     "start": "expo start --dev-client",
     "android": "expo run:android",
